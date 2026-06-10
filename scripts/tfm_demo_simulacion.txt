@@ -1,0 +1,30 @@
+REM ============================================================
+REM  BadUSB Demo Script - TFM CEU Master Ciberseguridad 2026
+REM  Autor: Carlos Munaiz Cossio
+REM  Descripcion: Prueba no destructiva de inyeccion HID
+REM  Target: Windows 11
+REM  Uso: Exclusivamente educativo y en entorno controlado
+REM ============================================================
+
+DELAY 1000
+GUI r
+DELAY 500
+STRING notepad
+ENTER
+DELAY 1000
+STRING SIMULACION DE ATAQUE BADUSB
+ENTER
+ENTER
+STRING Este equipo ha aceptado un dispositivo HID externo.
+ENTER
+STRING El Flipper Zero se ha comportado como un teclado USB.
+ENTER
+STRING Esta prueba demuestra que un dispositivo fisico puede automatizar acciones en el sistema.
+ENTER
+ENTER
+STRING No se ha ejecutado ningun codigo malicioso.
+ENTER
+STRING Prueba realizada en entorno controlado con fines academicos.
+ENTER
+ENTER
+STRING Trabajo de Fin de Master - Evaluacion de ataques fisicos mediante dispositivos HID.
