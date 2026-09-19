@@ -39,9 +39,6 @@ badusb-endpoint-analysis/
 ├── scripts/
 │   └── tfm_demo_simulacion.txt  # Script BadUSB utilizado en la prueba
 │
-├── mitigations/
-│   └── mitigation-summary.md  # Tabla resumen de medidas defensivas
-│
 └── assets/
     └── screenshots/           # Capturas del entorno y ejecución
         ├── 01-windows-info.png
